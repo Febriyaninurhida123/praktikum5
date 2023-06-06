@@ -36,7 +36,8 @@ Latihan
 
 
 2 Lakukan join tabel Matakuliah dan Dosen
-c
+![image](ss/ss12.png)
+
 ```
 Pada kode ini hasilnya eror karena tidak ada relasi antara kedua tabel. tabel dosen memiliki kolom kd_ds sementara tabel mata_kuliah tidak. table mata_kuliah memiliki kolom kd_mk sementara tabel dosen tidak. intinya tidak ada forign key yang sama sehingga tidak bisa saling berelasi.
 ```
