@@ -64,7 +64,7 @@ SELECT Mahasiswa.nim, Mahasiswa.nama, Mahasiswa.jenis_kelamin, Dosen.nama AS 'Do
 FROM Mahasiswa 
 JOIN Dosen ON Dosen.kd_ds=Mahasiswa.kd_ds;
 ```
-![image](ss/ss1.png)
+![image](ss/ss6.png)
 
 
 2. LEFT JOIN table Mahasiswa dan Dosen
